@@ -18,10 +18,10 @@ public class PrimeiroProgram {
 		System.out.println(gato);
 		System.out.println(livro);
 		
-		/*
+	
 		int a= 5;
 		int b= 8;
-		System.out.println("Helllo mundo " + (a+b)); */
+		System.out.println("Helllo mundo " + (a+b)); 
 	}
 }
 
